@@ -250,7 +250,7 @@ translate russiantl _call_skipcheck_27_8910c3cd:
 translate russiantl _call_skipcheck_27_0da75cc0:
 
     # Ka normal "Oh, yes. Business has been wonderful for decades. Lately though, everything just seems to be going down."
-    Ka normal "О, да. Бизнес был прекрасным десятилетиями. В последнее время, похоже, все идёт на спад."
+    Ka normal "О, да. Бизнес был прекрасным десятилетиями. В последнее время, похоже, всё идёт на спад."
 
 # game/xkatsu.rpy:194
 translate russiantl _call_skipcheck_27_1bc47770:
@@ -352,7 +352,7 @@ translate russiantl _call_skipcheck_27_a33bd48c:
 translate russiantl _call_skipcheck_27_de499e2c:
 
     # n "The owner was a kind, old dragoness who made everything that was sold in her shop with her own two claws. Her confectionery was always very good, but it was her ice cream that was truly exceptional."
-    n "Владелецей была доброй, старой драконихой, все, что было продано в ее магазине, было сделано её двумя собственными когтями. Ее кондитерские изделия всегда хорошими, но именно ее мороженое было действительно исключительным."
+    n "Владелецей была доброй, старой драконихой, всё, что было продано в ее магазине, было сделано её двумя собственными когтями. Ее кондитерские изделия всегда хорошими, но именно ее мороженое было действительно исключительным."
 
 # game/xkatsu.rpy:238
 translate russiantl _call_skipcheck_27_6d730534:
@@ -514,7 +514,7 @@ translate russiantl _call_skipcheck_27_63e05560:
 translate russiantl _call_skipcheck_27_cf626cbe:
 
     # Ka "My ice cream is only what it is because I still make it myself with my own two hands. This is the way it has been and how it's always going to be."
-    Ka "Моё мороженое - то, чем оно является, такое, потому что я все еще делаю его своими собственными руками. Так оно было, и так будет всегда."
+    Ka "Моё мороженое - то, чем оно является, такое, потому что я всё еще делаю его своими собственными руками. Так оно было, и так будет всегда."
 
 # game/xkatsu.rpy:313
 translate russiantl _call_skipcheck_27_a8b48df3:
@@ -568,7 +568,7 @@ translate russiantl _call_skipcheck_27_e5492b7c:
 translate russiantl _call_skipcheck_27_62def07d:
 
     # Ka normal "Let them have their cheap stuff if that's all they want. I'd rather take my recipes to the grave than let the big companies have them."
-    Ka normal "Пусть у них будет дешевый материал, если это все, что они хотят. Я лучше отнесу свои рецепты в могилу, чем позволю крупным компаниям их получить."
+    Ka normal "Пусть у них будет дешевый материал, если это всё, что они хотят. Я лучше отнесу свои рецепты в могилу, чем позволю крупным компаниям их получить."
 
 # game/xkatsu.rpy:331
 translate russiantl _call_skipcheck_27_893b4bac:
@@ -628,7 +628,7 @@ translate russiantl _call_skipcheck_27_62cf7475:
 translate russiantl _call_skipcheck_27_57e9fc76:
 
     # c "Considering it's not working out so great right now, maybe it's time for a change."
-    c "Учитывая, что сейчас все не так хорошо, возможно, пришло время для перемен."
+    c "Учитывая, что сейчас всё не так хорошо, возможно, пришло время для перемен."
 
 # game/xkatsu.rpy:351
 translate russiantl _call_skipcheck_27_4edcfa57:
@@ -838,7 +838,7 @@ translate russiantl _call_skipcheck_27_1bdedddc:
 translate russiantl _call_skipcheck_27_f4369565:
 
     # m "Business was booming, but it wasn't until a certain person showed up that things were about to get serious."
-    m "Бизнес процветал, но только когда появился некий человек, все стало серьезно."
+    m "Бизнес процветал, но только когда появился некий человек, всё стало серьезно."
 
 # game/xkatsu.rpy:473
 translate russiantl _call_skipcheck_27_faeaee29:
@@ -886,13 +886,13 @@ translate russiantl _call_skipcheck_27_53246781:
 translate russiantl _call_skipcheck_27_8b5ab208:
 
     # Em ques b "I wouldn't mind his complaints, you know, but since I am in charge of your visit, it's all going to come back to me, and he's going to want an explanation."
-    Em ques b "Я бы не возражала против его жалоб, вы знаете, но так как я отвечаю за ваш визит, все это вернется ко мне, и он захочет объяснений."
+    Em ques b "Я бы не возражала против его жалоб, вы знаете, но так как я отвечаю за ваш визит, всё это вернется ко мне, и он захочет объяснений."
 
 # game/xkatsu.rpy:489
 translate russiantl _call_skipcheck_27_c6fbe5c3:
 
     # c "I just wanted to help Katsuharu. That's all."
-    c "Я просто хотел помочь Кацухару. Вот и все."
+    c "Я просто хотел помочь Кацухару. Вот и всё."
 
 # game/xkatsu.rpy:491
 translate russiantl _call_skipcheck_27_6eba29cd:
@@ -1072,7 +1072,7 @@ translate russiantl _call_skipcheck_27_1b3c0d40:
 translate russiantl _call_skipcheck_27_81a52711:
 
     # Ka smile flip "I'd offer you some more ice cream, but I'm afraid we're all out for the day."
-    Ka smile flip "Я бы предложил тебе еще мороженого, но, боюсь, мы все продали за день."
+    Ka smile flip "Я бы предложил тебе еще мороженого, но, боюсь, мы всё продали за день."
 
 # game/xkatsu.rpy:571
 translate russiantl _call_skipcheck_27_640fdc11:
@@ -1126,7 +1126,7 @@ translate russiantl katsuskip_dd20ffbf:
 translate russiantl katsuskip_b787f42d:
 
     # Ka exhausted flip "Well, maybe not all of it, or else I might go bankrupt again..."
-    Ka exhausted flip "Ну, может быть, не все, иначе я могу снова обанкротиться ..."
+    Ka exhausted flip "Ну, может быть, не всё, иначе я могу снова обанкротиться ..."
 
 # game/xkatsu.rpy:611
 translate russiantl _call_syscheck_104_b3f0bc14:
