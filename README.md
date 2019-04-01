@@ -1,9 +1,9 @@
 # AwSW-ru
 Russian translation for Angels with Scaly Wings. <br />
-If you are willing to participate in translation, feel free to add me on Steam and message me. <br />
-Here's my Steam page: http://steamcommunity.com/id/wolfniey/
+Currently, I'd like to translate the game on my own. If you want to ask something or get the latest translation or make your own one: feel free to contact:
+My telegram: @rawyne
 
-Progress: 9 files out of 47
+Progress: -
 
 Order of files to be translated (posted officially by M.B. Saunders): <br />
 common ✔<br />
